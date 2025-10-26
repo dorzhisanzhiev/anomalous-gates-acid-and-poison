@@ -1,0 +1,8 @@
+2025/10/26-20:09:59.241 4ecc Recovering log #26
+2025/10/26-20:09:59.249 4ecc Delete type=0 #26
+2025/10/26-20:09:59.249 4ecc Delete type=3 #24
+2025/10/26-20:13:28.056 5124 Level-0 table #31: started
+2025/10/26-20:13:28.056 5124 Level-0 table #31: 0 bytes OK
+2025/10/26-20:13:28.064 5124 Delete type=0 #29
+2025/10/26-20:13:28.075 5124 Manual compaction at level-0 from '!items!AcFJILQctN9fz9Fl' @ 72057594037927935 : 1 .. '!items!ssfu586cyXK9qh1C' @ 0 : 0; will stop at (end)
+2025/10/26-20:13:28.075 5124 Manual compaction at level-1 from '!items!AcFJILQctN9fz9Fl' @ 72057594037927935 : 1 .. '!items!ssfu586cyXK9qh1C' @ 0 : 0; will stop at (end)

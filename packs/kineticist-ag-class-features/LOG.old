@@ -1,0 +1,8 @@
+2025/10/25-04:08:24.996 4dd4 Recovering log #21
+2025/10/25-04:08:25.003 4dd4 Delete type=0 #21
+2025/10/25-04:08:25.003 4dd4 Delete type=3 #19
+2025/10/25-04:09:07.204 510c Level-0 table #27: started
+2025/10/25-04:09:07.205 510c Level-0 table #27: 0 bytes OK
+2025/10/25-04:09:07.205 510c Delete type=0 #25
+2025/10/25-04:09:07.209 510c Manual compaction at level-0 from '!items!AcFJILQctN9fz9Fl' @ 72057594037927935 : 1 .. '!items!ssfu586cyXK9qh1C' @ 0 : 0; will stop at (end)
+2025/10/25-04:09:07.209 510c Manual compaction at level-1 from '!items!AcFJILQctN9fz9Fl' @ 72057594037927935 : 1 .. '!items!ssfu586cyXK9qh1C' @ 0 : 0; will stop at (end)

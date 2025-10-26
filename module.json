@@ -1,0 +1,84 @@
+{
+  "id": "anomalous-gates-acid-and-poison",
+  "title": "Anomalous Gates Acid and Poison",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "kineticist-ag-class-features",
+      "label": "Kineticist (AG) - Class Features",
+      "path": "packs/kineticist-ag-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kineticist-ag-effects",
+      "label": "Kineticist (AG) - Effects",
+      "path": "packs/kineticist-ag-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kineticist-ag-feats",
+      "label": "Kineticist (AG) - Feats",
+      "path": "packs/kineticist-ag-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "kineticist-ag-spells",
+      "label": "Kineticist (AG) - Spells",
+      "path": "packs/kineticist-ag-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Anomalous Gates Acid and Poison",
+      "sorting": "a",
+      "packs": [
+            "kineticist-ag-class-features",
+            "kineticist-ag-effects",
+            "kineticist-ag-feats",
+			      "kineticist-ag-spells"
+          ],
+      "folders": []
+    }
+  ],
+  "authors": [
+    {
+      "name":["Dorji Sanjiev"]
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "https://github.com/dorzhisanzhiev/anomalous-gates-acid-and-poison",
+  "manifest": "https://raw.githubusercontent.com/dorzhisanzhiev/anomalous-gates-acid-and-poison/master/module.json",
+  "download": "https://github.com/dorzhisanzhiev/anomalous-gates-acid-and-poison/archive/refs/heads/master.zip"
+}
